@@ -17,6 +17,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -41,7 +42,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -50,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.mduda.tdd.electicity" />
       <recent name="pl.mduda.tdd" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -109,30 +112,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="659" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604957118307" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604955048161">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604957236496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604955048161" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604955048160">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604957236496" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604957236496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604955048160" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604955048160">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604957236496" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604957236496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604955048160" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604955048160">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604957236496" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604957236496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604955048160" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604957236496" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1604954630454">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604954630454" />
-    <state x="699" y="196" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604954593211">
+    <state x="344" y="134" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604957789415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="699" y="196" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604954593211" />
+    <state x="344" y="134" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604957789415" />
     <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1604954740846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
