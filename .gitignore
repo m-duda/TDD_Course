@@ -32,65 +32,45 @@ hs_err_pid*
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+# User-specific stuff
+TDD_Course/.idea/**/workspace.xml
+TDD_Course/.idea/**/tasks.xml
+TDD_Course/.idea/**/usage.statistics.xml
+TDD_Course/.idea/**/dictionaries
+TDD_Course/.idea/**/shelf
+TDD_Course/target/*
 
 # Generated files
-.idea/**/contentModel.xml
+TDD_Course/.idea/**/contentModel.xml
 
 # Sensitive or high-churn files
-.idea/**/dataSources/
-.idea/**/dataSources.ids
-.idea/**/dataSources.local.xml
-.idea/**/sqlDataSources.xml
-.idea/**/dynamic.xml
-.idea/**/uiDesigner.xml
-.idea/**/dbnavigator.xml
+TDD_Course/.idea/**/dataSources/
+TDD_Course/.idea/**/dataSources.ids
+TDD_Course/.idea/**/dataSources.local.xml
+TDD_Course/.idea/**/sqlDataSources.xml
+TDD_Course/.idea/**/dynamic.xml
+TDD_Course/.idea/**/uiDesigner.xml
+TDD_Course/.idea/**/dbnavigator.xml
 
-# Gradle
-.idea/**/gradle.xml
-.idea/**/libraries
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
 # since they will be recreated, and may cause churn.  Uncomment if using
 # auto-import.
- .idea/artifacts
- .idea/compiler.xml
- .idea/jarRepositories.xml
- .idea/modules.xml
- .idea/*.iml
- .idea/modules
+ TDD_Course/.idea/artifacts
+ TDD_Course/.idea/compiler.xml
+ TDD_Course/ .idea/jarRepositories.xml
+ TDD_Course/.idea/modules.xml
+ TDD_Course/.idea/*.iml
+ TDD_Course/.idea/modules
  *.iml
  *.ipr
-
-# CMake
-cmake-build-*/
-
-# Mongo Explorer plugin
-.idea/**/mongoSettings.xml
 
 # File-based project format
 *.iws
 
 # IntelliJ
-out/
-
-# mpeltonen/sbt-idea plugin
-.idea_modules/
-
-# JIRA plugin
-atlassian-ide-plugin.xml
-
-# Cursive Clojure plugin
-.idea/replstate.xml
-
-# Crashlytics plugin (for Android Studio and IntelliJ)
-com_crashlytics_export_strings.xml
-crashlytics.properties
-crashlytics-build.properties
-fabric.properties
+TDD_Course/out/
 
 # Editor-based Rest Client
-.idea/httpRequests
-
-# Android studio 3.1+ serialized cache file
-.idea/caches/build_file_checksums.ser
+TDD_Course/.idea/httpRequests
